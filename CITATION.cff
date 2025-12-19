@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as below."
+authors:
+  - family-names: "Shim"
+    given-names: "YK"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Rosetta Cartesian ddG Protocol for Protein Stability Prediction"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/ykshim2013/rosetta-ddg-protocol"
+license: MIT
+keywords:
+  - rosetta
+  - protein stability
+  - ddG
+  - variant analysis
+  - computational biology
+references:
+  - type: article
+    authors:
+      - family-names: "Park"
+        given-names: "Hahnbeom"
+      - family-names: "Bradley"
+        given-names: "Philip"
+      - family-names: "Greisen"
+        given-names: "Per"
+      - family-names: "Liu"
+        given-names: "Yuan"
+      - family-names: "Mulligan"
+        given-names: "Vikram Khipple"
+      - family-names: "Kim"
+        given-names: "David E."
+      - family-names: "Baker"
+        given-names: "David"
+      - family-names: "DiMaio"
+        given-names: "Frank"
+    title: "Simultaneous Optimization of Biomolecular Energy Functions on Features from Small Molecules and Macromolecules"
+    journal: "Journal of Chemical Theory and Computation"
+    volume: 12
+    issue: 12
+    pages: "6201-6212"
+    year: 2016
+    doi: "10.1021/acs.jctc.6b00819"
